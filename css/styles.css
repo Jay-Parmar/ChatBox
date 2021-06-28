@@ -84,7 +84,7 @@ button:hover, button:focus{
 .modal-header{
     background-color:rgb(192, 50, 149);
     color:white;
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 5px;
 }
 .input-group{
     margin-bottom:5px;
