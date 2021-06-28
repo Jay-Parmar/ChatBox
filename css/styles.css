@@ -81,6 +81,18 @@ button:hover, button:focus{
     font-weight: bold;
     
 }
+.modal-header{
+    background-color:rgb(192, 50, 149);
+    color:white;
+    border-radius: 5px 5px 5px 5px;
+}
+.input-group{
+    margin-bottom:5px;
+    padding: 9px 40px;
+}
+.input-group label{
+    align-content: left;
+}
 .page-footer{
     background-color: rgb(192, 50, 149);
 }
